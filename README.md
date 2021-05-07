@@ -16,3 +16,7 @@ I left also my rollup.config.js
               
             ]
         })
+
+
+It generates a file(html) copy from original one with the (css/js) files added. If you output the bundled files into the same dir 
+and declared destination in that dir you would have a package with all files(bundled ones and html with the changes)
