@@ -1,5 +1,6 @@
 # rollup-plugin-bundle-html-fixed
-Trying to fix the typeError: 'isEntry' of undefined from https://github.com/haifeng2013/rollup-plugin-bundle-html
+This is a modification of the original plugin (https://github.com/haifeng2013/rollup-plugin-bundle-html).
+Trying to fix the typeError: 'isEntry' of undefined from https://github.com/haifeng2013/rollup-plugin-bundle-html/issues/31
 Just the file with some changes.
 
 I left also my rollup.config.js
